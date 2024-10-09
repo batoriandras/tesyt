@@ -1,0 +1,14 @@
+C:\Users\hallgato\source\repos\oraimunka\oraimunka\bin\Debug\net8.0\oraimunka.exe
+C:\Users\hallgato\source\repos\oraimunka\oraimunka\bin\Debug\net8.0\oraimunka.deps.json
+C:\Users\hallgato\source\repos\oraimunka\oraimunka\bin\Debug\net8.0\oraimunka.runtimeconfig.json
+C:\Users\hallgato\source\repos\oraimunka\oraimunka\bin\Debug\net8.0\oraimunka.dll
+C:\Users\hallgato\source\repos\oraimunka\oraimunka\bin\Debug\net8.0\oraimunka.pdb
+C:\Users\hallgato\source\repos\oraimunka\oraimunka\obj\Debug\net8.0\oraimunka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hallgato\source\repos\oraimunka\oraimunka\obj\Debug\net8.0\oraimunka.AssemblyInfoInputs.cache
+C:\Users\hallgato\source\repos\oraimunka\oraimunka\obj\Debug\net8.0\oraimunka.AssemblyInfo.cs
+C:\Users\hallgato\source\repos\oraimunka\oraimunka\obj\Debug\net8.0\oraimunka.csproj.CoreCompileInputs.cache
+C:\Users\hallgato\source\repos\oraimunka\oraimunka\obj\Debug\net8.0\oraimunka.dll
+C:\Users\hallgato\source\repos\oraimunka\oraimunka\obj\Debug\net8.0\refint\oraimunka.dll
+C:\Users\hallgato\source\repos\oraimunka\oraimunka\obj\Debug\net8.0\oraimunka.pdb
+C:\Users\hallgato\source\repos\oraimunka\oraimunka\obj\Debug\net8.0\oraimunka.genruntimeconfig.cache
+C:\Users\hallgato\source\repos\oraimunka\oraimunka\obj\Debug\net8.0\ref\oraimunka.dll
